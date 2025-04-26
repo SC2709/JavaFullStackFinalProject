@@ -21,4 +21,5 @@ It includes technology stack :
                         • com.example.demo.webconfig : Class : webconfig
 
   • After creating packages and classes , I updated the project and Run as Spring Boot App.
+  •Now Backend Run Successfully.
                         
