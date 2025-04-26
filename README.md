@@ -7,7 +7,7 @@ It includes technology stack :
 1) For Backend :
    
    • Spring Tool Suit : I have used Spring.io,  PGADMIN (PostgreSQL) and Spring Tool Suit as a backend.
-                        I have created a basic project of Employee CRUD on Spring.io,
+                        I have created a basic project of   Employee CRUD on Spring.io,
                         and then after creating project I opened it in Spring Tool Suit,
                         then created many different packages :
    
