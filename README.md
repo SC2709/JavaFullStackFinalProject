@@ -44,7 +44,10 @@ It includes technology stack :
    # Employee CRUD Project :
  
    ![image alt](https://github.com/SC2709/JavaFullStackFinalProject/blob/e1cb969a4d5449c42cb1abf7da4f39779a086077/Screenshots/Home%20Page.png)
-   ![image alt]()
+   ![image alt](https://github.com/SC2709/JavaFullStackFinalProject/blob/3054d8211f6d3a97ee0866acaca8b2c35640f35e/Screenshots/Employee%20List.png)
+   ![image alt](https://github.com/SC2709/JavaFullStackFinalProject/blob/3054d8211f6d3a97ee0866acaca8b2c35640f35e/Screenshots/Add%20Employee.png)
+   ![image alt](https://github.com/SC2709/JavaFullStackFinalProject/blob/3054d8211f6d3a97ee0866acaca8b2c35640f35e/Screenshots/Delete%20Employee.png)
+   ![image alt](https://github.com/SC2709/JavaFullStackFinalProject/blob/3054d8211f6d3a97ee0866acaca8b2c35640f35e/Screenshots/Admin%20Login.png)
 
 
                        
