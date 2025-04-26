@@ -8,13 +8,13 @@ It includes technology stack :
    
    • Spring Tool Suit :
    
-     •I have used Spring.io,  PGADMIN (PostgreSQL) and Spring Tool Suit as a backend.
+     • I have used Spring.io,  PGADMIN (PostgreSQL) and Spring Tool Suit as a backend.
    
-     •I have created a basic project of   Employee CRUD on Spring.io,
+     • I have created a basic project of   Employee CRUD on Spring.io,
 
-     •and then after creating project I opened it in Spring Tool Suit,
+     • And then after creating project I opened it in Spring Tool Suit,
 
-     •then created many different packages :
+     • Then created many different packages :
    
                         • com.example.demo : Class : EmpBackendApplication
                         • com.example.demo.adminController : Class : adminController
@@ -26,7 +26,7 @@ It includes technology stack :
                         • com.example.demo.repository : Class : EmployeeRepository
                         • com.example.demo.webconfig : Class : webconfig
    
-  • In PGADMIN (PostgreSQL) I have created employee database and also two tables admin and employee_table.
+   • In PGADMIN (PostgreSQL) I have created employee database and also two tables admin and employee_table.
   
    • After creating packages and classes and connecting Spring Tool Suit and PGADMIN (PosstgreSQL) for database,
    
@@ -37,9 +37,9 @@ It includes technology stack :
 2) For Frontend :
   • Angular (VSCODE) :
 
-    • For frontend I have used VSCODE for Angular :
+  • For frontend I have used VSCODE for Angular :
 
-    • In VSCODE I have Angular project named as employee-crud-frontend
+  • In VSCODE I have Angular project named as employee-crud-frontend
    
 
                       • ng new employee-crud-frontend
