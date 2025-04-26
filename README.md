@@ -23,3 +23,23 @@ It includes technology stack :
   • After creating packages and classes , I updated the project and Run as Spring Boot App.
   •Now Backend Run Successfully.
                         
+2) For Frontend :
+  • Angular (VSCODE) : For frontend I have used VSCODE for Angular :
+                       In VSCODE I have Angular project named as employee-crud-frontend
+
+                      • ng new employee-crud-frontend
+                      • cd employee-crud-frontend
+                      • npm install bootstrap
+                      • ng generate component add-employee
+                      • ng generate component admin-login
+                      • ng generate component employee-list
+                      • ng generate component home
+                      • ng generate component show-details
+                      • ng generate component update-employee
+                      • ng generate service employee
+   • And after doing all necessary procedures to create Frontend Project then I used this command to run Project :
+
+                      • ng serve
+
+
+                       
