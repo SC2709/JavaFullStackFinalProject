@@ -2,7 +2,7 @@
 
 The Employee CRUD Project is used to manage employee details and it performs CRUD operation lile Add Employee, Update Employee, View Employee, Delete Employee.
 
-It includes technology stack :
+#It includes technology stack :
 
 1) For Backend :
    
