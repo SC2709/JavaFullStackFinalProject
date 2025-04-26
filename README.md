@@ -42,8 +42,9 @@ It includes technology stack :
                       • ng serve
 
    # Employee CRUD Project :
-
+ 
    ![image alt](https://github.com/SC2709/JavaFullStackFinalProject/blob/e1cb969a4d5449c42cb1abf7da4f39779a086077/Screenshots/Home%20Page.png)
+   ![image alt]()
 
 
                        
