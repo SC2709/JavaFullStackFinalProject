@@ -7,13 +7,14 @@ It includes technology stack :
 1) For Backend :
    
    • Spring Tool Suit :
-     I have used Spring.io,  PGADMIN (PostgreSQL) and Spring Tool Suit as a backend.
    
-     I have created a basic project of   Employee CRUD on Spring.io,
+     •I have used Spring.io,  PGADMIN (PostgreSQL) and Spring Tool Suit as a backend.
+   
+     •I have created a basic project of   Employee CRUD on Spring.io,
 
-     and then after creating project I opened it in Spring Tool Suit,
+     •and then after creating project I opened it in Spring Tool Suit,
 
-     then created many different packages :
+     •then created many different packages :
    
                         • com.example.demo : Class : EmpBackendApplication
                         • com.example.demo.adminController : Class : adminController
@@ -34,8 +35,12 @@ It includes technology stack :
    • Now Backend Run Successfully.
                         
 2) For Frontend :
-  • Angular (VSCODE) : For frontend I have used VSCODE for Angular :
-                       In VSCODE I have Angular project named as employee-crud-frontend
+  • Angular (VSCODE) :
+
+    • For frontend I have used VSCODE for Angular :
+
+    • In VSCODE I have Angular project named as employee-crud-frontend
+   
 
                       • ng new employee-crud-frontend
                       • cd employee-crud-frontend
