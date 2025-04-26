@@ -20,9 +20,9 @@ It includes technology stack :
                         • com.example.demo.repository : Class : EmployeeRepository
                         • com.example.demo.webconfig : Class : webconfig
   • In PGADMIN (PostgreSQL) I have created employee database and also two tables admin and employee_table.
-  • After creating packages and classes and connecting Spring Tool Suit and PGADMIN (PosstgreSQL) for database,
-  • I updated the Project and Run as Spring Boot App.
-  • Now Backend Run Successfully.
+   • After creating packages and classes and connecting Spring Tool Suit and PGADMIN (PosstgreSQL) for database,
+   • I updated the Project and Run as Spring Boot App.
+   • Now Backend Run Successfully.
                         
 2) For Frontend :
   • Angular (VSCODE) : For frontend I have used VSCODE for Angular :
