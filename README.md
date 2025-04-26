@@ -35,11 +35,12 @@ It includes technology stack :
    • Now Backend Run Successfully.
                         
 2) For Frontend :
-  • Angular (VSCODE) :
+   
+   • Angular (VSCODE) :
 
-  • For frontend I have used VSCODE for Angular :
+   • For frontend I have used VSCODE for Angular :
 
-  • In VSCODE I have Angular project named as employee-crud-frontend
+   • In VSCODE I have Angular project named as employee-crud-frontend
    
 
                       • ng new employee-crud-frontend
