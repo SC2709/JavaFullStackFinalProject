@@ -41,5 +41,9 @@ It includes technology stack :
 
                       • ng serve
 
+   # Employee CRUD Project :
+
+   ![image alt]()
+
 
                        
