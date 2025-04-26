@@ -5,7 +5,7 @@ The Employee CRUD Project is used to manage employee details and it performs CRU
 It includes technology stack :
 
 1) For Backend :
-   • Spring Tool Suit : I have used Spring.io and Spring Tool Suit as a backend.
+   • Spring Tool Suit : I have used Spring.io , PGADMIN (PostgreSQL) and Spring Tool Suit as a backend.
                         I have created a basic project of Employee CRUD on Spring.io,
                         and then after creating project I opened it in Spring Tool Suit,
                         then created many different packages :
@@ -19,9 +19,10 @@ It includes technology stack :
                         • com.example.demo.model : Class :  Employee.java
                         • com.example.demo.repository : Class : EmployeeRepository
                         • com.example.demo.webconfig : Class : webconfig
-
-  • After creating packages and classes , I updated the project and Run as Spring Boot App.
-  •Now Backend Run Successfully.
+  • In PGADMIN (PostgreSQL) I have created employee database and also two tables admin and employee_table.
+  • After creating packages and classes and connecting Spring Tool Suit and PGADMIN (PosstgreSQL) for database,
+  • I updated the Project and Run as Spring Boot App.
+  • Now Backend Run Successfully.
                         
 2) For Frontend :
   • Angular (VSCODE) : For frontend I have used VSCODE for Angular :
@@ -40,7 +41,8 @@ It includes technology stack :
    • And after doing all necessary procedures to create Frontend Project then I used this command to run Project :
 
                       • ng serve
-
+   • Now Frontend Run Successfully.
+  
    # Employee CRUD Project :
  
    ![image alt](https://github.com/SC2709/JavaFullStackFinalProject/blob/e1cb969a4d5449c42cb1abf7da4f39779a086077/Screenshots/Home%20Page.png)
