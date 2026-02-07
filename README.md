@@ -40,7 +40,7 @@ The Employee CRUD Project is used to manage employee details and it performs CRU
 
    • For frontend I have used VSCODE for Angular :
 
-   • In VSCODE I have Angular project named as employee-crud-frontend
+   • In VSCODE I have created Angular project named as employee-crud-frontend
    
 
                       • ng new employee-crud-frontend
