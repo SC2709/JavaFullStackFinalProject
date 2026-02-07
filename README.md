@@ -69,4 +69,41 @@ The Employee CRUD Project is used to manage employee details and it performs CRU
    ![image alt](https://github.com/SC2709/JavaFullStackFinalProject/blob/4b66e618802a1ce48b638ff3a0680d12ce8afa7c/Screenshots/Admin%20Login.png)
 
 
+# EmployeeCrudFrontend
+
+This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.9.
+
+## Development server
+
+To start a local development server, run:
+
+```bash
+ng serve
+```
+
+Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+
+## Code scaffolding
+
+Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+
+```bash
+ng generate component component-name
+```
+
+For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+
+```bash
+ng generate --help
+```
+
+## Building
+
+To build the project run:
+
+```bash
+ng build
+```
+
+This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
                        
